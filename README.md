@@ -1,4 +1,4 @@
 # oppo
 Вариант 12
-Practic_2_V12 и 1.txt - 2 практика
-В 1 папке 1 практика
+ConsoleApplication5, 1.txt, Data.h/.cpp, Estate.h/.cpp - 2 практика
+
