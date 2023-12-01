@@ -1,0 +1,10 @@
+﻿  UnitTest1.cpp
+C:\Users\Tatyana\source\repos\ConsoleApplication5\UnitTest1\UnitTest1.cpp(21,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Tatyana\source\repos\ConsoleApplication5\UnitTest1\UnitTest1.cpp(47,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Tatyana\source\repos\ConsoleApplication5\UnitTest1\UnitTest1.cpp(230,12): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\Tatyana\source\repos\ConsoleApplication5\UnitTest1\UnitTest1.cpp(227,37): warning C4101: mes: неиспользованная локальная переменная
+C:\Users\Tatyana\source\repos\ConsoleApplication5\UnitTest1\UnitTest1.cpp(245,12): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\Tatyana\source\repos\ConsoleApplication5\UnitTest1\UnitTest1.cpp(242,37): warning C4101: mes: неиспользованная локальная переменная
+C:\Users\Tatyana\source\repos\ConsoleApplication5\UnitTest1\UnitTest1.cpp(260,12): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\Tatyana\source\repos\ConsoleApplication5\UnitTest1\UnitTest1.cpp(257,37): warning C4101: mes: неиспользованная локальная переменная
+  UnitTest1.vcxproj -> C:\Users\Tatyana\source\repos\ConsoleApplication5\x64\Debug\UnitTest1.dll

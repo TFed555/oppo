@@ -1,0 +1,13 @@
+﻿  Application5_Test.cpp
+C:\Users\Tatyana\source\repos\ConsoleApplication5\Application5_Test\Application5_Test.cpp(60,4): error C2065: Estate: необъявленный идентификатор
+C:\Users\Tatyana\source\repos\ConsoleApplication5\Application5_Test\Application5_Test.cpp(60,11): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "est"
+C:\Users\Tatyana\source\repos\ConsoleApplication5\Application5_Test\Application5_Test.cpp(60,11): error C2065: est: необъявленный идентификатор
+C:\Users\Tatyana\source\repos\ConsoleApplication5\Application5_Test\Application5_Test.cpp(61,4): error C2065: est: необъявленный идентификатор
+C:\Users\Tatyana\source\repos\ConsoleApplication5\Application5_Test\Application5_Test.cpp(63,4): error C2065: est: необъявленный идентификатор
+C:\Users\Tatyana\source\repos\ConsoleApplication5\Application5_Test\Application5_Test.cpp(68,4): error C2065: Estate: необъявленный идентификатор
+C:\Users\Tatyana\source\repos\ConsoleApplication5\Application5_Test\Application5_Test.cpp(68,11): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "est"
+C:\Users\Tatyana\source\repos\ConsoleApplication5\Application5_Test\Application5_Test.cpp(68,11): error C2065: est: необъявленный идентификатор
+C:\Users\Tatyana\source\repos\ConsoleApplication5\Application5_Test\Application5_Test.cpp(69,4): error C2065: est: необъявленный идентификатор
+C:\Users\Tatyana\source\repos\ConsoleApplication5\Application5_Test\Application5_Test.cpp(71,4): error C2065: est: необъявленный идентификатор
+C:\Users\Tatyana\source\repos\ConsoleApplication5\Application5_Test\Application5_Test.cpp(78,9): error C7624: Имя типа "Data" не может находиться в правой части выражения доступа к элементу класса.
+C:\Users\Tatyana\source\repos\ConsoleApplication5\ConsoleApplication5\Data.h(5,8): message : см. объявление "Data"
